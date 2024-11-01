@@ -6,7 +6,7 @@
 <a href="https://www.github.com/kishanojha14">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/vishalojha628/">
+<a href="https://www.instagram.com/kishanojha_.34/">
   <img align="left" alt="Vishal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
@@ -14,7 +14,7 @@
 <br />
 
 Hi there, I'm **Kishan Kumar Ojha**, I'm a 3rd-year student at **IMS , Ghaziabad**, passionate about leveraging technology to create impactful solutions. 
-  <img align="centre" alt="GIF" src="  https://media.licdn.com/dms/image/v2/D5616AQEZmGiD7YpzMA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730444228364?e=1735776000&v=beta&t=hYk7xxyWqE3IXSnEGRa_pddYWcpCk1wsojFp68gI6PM " />
+  <img align="centre" alt="GIF" src="https://media.licdn.com/dms/image/v2/D5616AQEZmGiD7YpzMA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730444228364?e=1735776000&v=beta&t=hYk7xxyWqE3IXSnEGRa_pddYWcpCk1wsojFp68gI6PM" />
 
 **Talking about Personal Stuffs:**
 

@@ -13,14 +13,15 @@
 <br />
 <br />
 
-Hi there, I'm **Kishan Kumar Ojha**, I'm a 3rd-year student at **IMS , Ghaziabad**, passionate about leveraging technology to create impactful solutions. 
+Hi there, I'm **Kishan Kumar Ojha**, I'm a software developer focused on building scalable, production-ready web applications using Java and modern full-stack technologies. 
+I enjoy solving problems with Data Structures & Algorithms, designing backend systems with Spring Boot, building responsive interfaces with React, and integrating AI into real-world applications.
   <img align="centre" alt="GIF" src="https://media.licdn.com/dms/image/v2/D5616AQEZmGiD7YpzMA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730444228364?e=1735776000&v=beta&t=hYk7xxyWqE3IXSnEGRa_pddYWcpCk1wsojFp68gI6PM" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an student at **VIT University, Bhopal** with [Portfolio]((https://vishalkumarojha.github.io/portfolio-VishalOjha/)) working on Personalised Streaming Site projects;
-- 🌱 I’m currently learning Web & App Devlopment ; 
-- 🤔 My interests are in Automation , Android Devlopment..;
+- 🎓 Currently pursuing Master of Computer Applications (MCA) — Generative AI at SRM Institute of Science and Technology, expected May 2027.;
+- 💼 Former Software Engineering Intern — Backend Development at Scramble Labs Technology Pvt. Ltd., where I worked on production backend systems for enterprise CRM platforms.;
+- ☕ Strongly focused on Java, Spring Boot, Hibernate, Spring Data JPA, REST APIs, SQL, and backend engineering.;
 - 🌱 I’m currently Working on Projects **Personal bogging Page & Own Streaming Site** ; 
 - 📫 Please email via kishanojha47@gmail.com to reach me;
 - 📝 See my [Curriculum Vitae]()) to get more info.

@@ -1,48 +1,56 @@
-### Hey , I'm Kishan Kumar Ojha
+<h1 align="center">Hi, I'm Kishan Kumar Ojha 👋</h1>
+<h3 align="center">Backend Developer — Java & Spring Boot</h3>
 
-<a href="https://www.linkedin.com/in/kishankumarojha/">
-  <img align="left" alt="Vishal's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.github.com/kishanojha14">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/kishanojha_.34/">
-  <img align="left" alt="Vishal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+Cloud+Deployment;Pursuing+MCA+in+Generative+AI" alt="Typing SVG" />
+</p>
 
-<br />
-<br />
-
-Hi there, I'm **Kishan Kumar Ojha**, I'm a software developer focused on building scalable, production-ready web applications using Java and modern full-stack technologies. 
-I enjoy solving problems with Data Structures & Algorithms, designing backend systems with Spring Boot, building responsive interfaces with React, and integrating AI into real-world applications.
-  <img align="centre" alt="GIF" src="https://media.licdn.com/dms/image/v2/D5616AQEZmGiD7YpzMA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730444228364?e=1735776000&v=beta&t=hYk7xxyWqE3IXSnEGRa_pddYWcpCk1wsojFp68gI6PM" />
-
-**Talking about Personal Stuffs:**
-
-- 🎓 Currently pursuing Master of Computer Applications (MCA) — Generative AI at SRM Institute of Science and Technology, expected May 2027.;
-- 💼 Former Software Engineering Intern — Backend Development at Scramble Labs Technology Pvt. Ltd., where I worked on production backend systems for enterprise CRM platforms.;
-- ☕ Strongly focused on Java, Spring Boot, Hibernate, Spring Data JPA, REST APIs, SQL, and backend engineering.;
-- 🌱 I’m currently Working on Projects **Personal bogging Page & Own Streaming Site** ; 
-- 📫 Please email via kishanojha47@gmail.com to reach me;
-- 📝 See my [Curriculum Vitae]()) to get more info.
-
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![SpringBoot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kishanojha14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kishanojha14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanojha14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kishanojha14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kishanojha14&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishanojha_.34) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kishankumarojha) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kishanojha) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kishankumarojha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/kishanojha14"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:work.kishanojha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kishanojha14&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### About Me
+
+I'm a backend developer focused on building reliable, production grade systems with Java and Spring Boot. I worked on enterprise CRM backends as a Software Engineering Intern at Scramble Labs Technology, and before that on a Java based Car Rental Management System at Hindalco Industries (Aditya Birla Group). I'm currently pursuing my MCA with a specialization in Generative AI at SRM Institute of Science and Technology.
+
+### Tech Stack
+
+**Languages:** Java (8/11/17+), SQL, Python, JavaScript, TypeScript, C++
+
+**Backend:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate/JPA, REST APIs, Microservices, GraphQL
+
+**Databases:** MySQL, PostgreSQL, MongoDB
+
+**Cloud & DevOps:** AWS (Elastic Beanstalk, S3), Google Cloud Platform, Docker, Kubernetes, Git, CI/CD
+
+**Frontend:** React.js
+
+**Tools:** Maven, Gradle, JUnit, Mockito, Postman
+
+### Projects
+
+**CampusFlow** — a role based student management platform built on a layered MVC architecture with Spring Boot, Spring Security, and JWT authentication. Handles role based access for students, teachers, and admins, with query optimization that improved API response time by 25%.
+
+**LedgerCore** — a layered banking operations system in Java 21, structured across 5 architectural layers covering 8+ core banking operations, using Streams and Lambda expressions for validation and exception handling.
+
+### Currently
+
+- 🎓 Pursuing MCA (Generative AI) at SRM Institute of Science and Technology, expected May 2027
+- 💼 Former Software Engineering Intern (Backend) at Scramble Labs Technology
+- 🌱 Co-founder at ArnoLabs, building software solutions for business clients
+- 📫 Reach me at work.kishanojha@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishanojha14&show_icons=true&theme=default&hide_border=true&count_private=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanojha14&layout=compact&theme=default&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishanojha14&theme=default&hide_border=true" />
+</p>
